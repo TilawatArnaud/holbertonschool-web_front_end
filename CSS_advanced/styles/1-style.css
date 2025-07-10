@@ -1,0 +1,7 @@
+/* The scroll-behavior property sets the scrolling behavior for a
+   scrolling box when scrolling is triggered by the navigation or
+   CSSOM scrolling APIs. With the value 'smooth', scrolling is
+   animated smoothly, giving a more pleasant user experience. */
+a {
+scroll-behavior: smooth;
+}
