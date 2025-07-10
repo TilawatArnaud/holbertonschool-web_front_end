@@ -1,0 +1,19 @@
+body{
+   color: #161616 ;  
+}
+
+/**
+ * Set the color of the h1 element to #161616.
+ */
+#anchor{
+    color: #161616;
+}
+visually-hidden{
+    display: none;
+}
+card-category{
+    color: #D73953;
+}
+section-tagline{
+    color: #D73953;
+}
