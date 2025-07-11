@@ -289,7 +289,7 @@ ul.row{
 height: 30rem;
 width: 100%;
 object-fit: cover;
-align-items: bottom;    
+align-content: bottom;    
 }
 .card-work .card-inner {
     position: absolute;
